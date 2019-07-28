@@ -1,0 +1,28 @@
+body {
+    background: linear-gradient(#ffee0065, #ffee0065), url('taruna.jpg');
+}
+
+form {
+    opacity: 1px;
+    width: 300px;
+    margin: auto;
+    margin-top: 60px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 0px 0px;
+    background: rgba(0, 0, 0, 0.50);
+}
+
+h3 {
+    margin-top: 130px;
+    text-align: center;
+    font-size: 100px;
+    color: black;
+    color: white;
+}
+
+img {
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}
